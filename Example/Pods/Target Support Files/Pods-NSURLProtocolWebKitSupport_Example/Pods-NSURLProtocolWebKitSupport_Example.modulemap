@@ -1,0 +1,6 @@
+framework module Pods_NSURLProtocolWebKitSupport_Example {
+  umbrella header "Pods-NSURLProtocolWebKitSupport_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

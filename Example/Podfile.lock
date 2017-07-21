@@ -1,0 +1,16 @@
+PODS:
+  - NSURLProtocolWebKitSupport (0.1.0)
+
+DEPENDENCIES:
+  - NSURLProtocolWebKitSupport (from `../`)
+
+EXTERNAL SOURCES:
+  NSURLProtocolWebKitSupport:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NSURLProtocolWebKitSupport: 4936d20c2770e7446807b0ff4cc6b4f5048b6ee7
+
+PODFILE CHECKSUM: e05f0794dfbad6ada314264a1bb92ed4d56a7d86
+
+COCOAPODS: 1.2.0

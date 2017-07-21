@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSURLProtocolWebKitSupport_Example' do
+  pod 'NSURLProtocolWebKitSupport', :path => '../'
+
+  target 'NSURLProtocolWebKitSupport_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
